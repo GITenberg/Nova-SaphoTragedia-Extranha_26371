@@ -1,0 +1,32 @@
+_repo: Nova-SaphoTragedia-Extranha_26371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villa-Moura, Bento de Oliveira Cardoso, Visconde de
+    aliases:
+    - Moura, Visconde de Vila
+    - Vila Moura, Visconde de
+    - Villa-Moura, Visconde de
+    - Villa-Moura, Bento de Oliveira Cardoso e Castro, Visconde de
+    birthdate: 1877
+    deathdate: 1935
+    gutenberg_agent_id: '31954'
+    url: http://www.gutenberg.org/2009/agents/31954
+    wikipedia: https://pt.wikipedia.org/wiki/Bento_de_Oliveira_Cardoso_e_Castro_Guedes_de_Carvalho_Lobo
+description: ''
+gutenberg_issued: '2008-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26371'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese fiction -- 20th century'
+title: 'Nova Sapho: Tragedia Extranha'
+url: http://www.gutenberg.org/ebooks/26371
